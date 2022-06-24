@@ -1,0 +1,22 @@
+#box{
+    width: 300px;
+    height: 300px;
+    background: blueviolet;
+    margin: 50px auto;
+    padding: 8px;
+    /*background: url("../img/camera.png");*/
+    
+}
+
+#box h1{
+    /*background: rgba(255, 255, 255, 1);*/ 
+    /*rgba "a" defina a transparencia*/
+    /*background: linear-gradient(red, yellow) 
+    parametros - to right, to left, ...; deg- grau*/
+    /*background: radial-gradient(red, yellow)*/
+    color: white;
+    font-size: 60px;
+    text-shadow: 5px 5px Black; 
+    /*1° px horizontal, 2° px vertical, 3° px Blur, 4° px spread */
+    /*box-shadow*/
+}
